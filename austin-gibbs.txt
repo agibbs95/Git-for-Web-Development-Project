@@ -11,7 +11,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
     8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
+    9. How many times can I use the same id on a page? 1
     10. What is a class? 
     11. What elements can I add a class to? 
     12. How many times can I use the same class on a page? 
